@@ -1,0 +1,11 @@
+c:\users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\bin\Debug\Carrera.exe.config
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\bin\Debug\Carrera.exe
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\bin\Debug\Carrera.pdb
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\bin\Debug\Carrera.xml
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\obj\Debug\Carrera.vbprojResolveAssemblyReference.cache
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\obj\Debug\Carrera.Form1.resources
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\obj\Debug\Carrera.Resources.resources
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\obj\Debug\Carrera.vbproj.GenerateResource.Cache
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\obj\Debug\Carrera.exe
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\obj\Debug\Carrera.xml
+C:\Users\aprat\documents\visual studio 2015\Projects\Carrera\Carrera\obj\Debug\Carrera.pdb
